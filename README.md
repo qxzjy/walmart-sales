@@ -1,7 +1,7 @@
 # Walmart sales 🏪
 
 <p align="center">
-   <img src='./data/logo.png' height='150'>
+   <img src='./data/logo.png' height='100'>
 </p>
 
 ## Description
