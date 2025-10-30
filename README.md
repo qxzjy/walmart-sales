@@ -16,8 +16,8 @@ For this project, we'll work with a dataset that contains information about week
 
 | Name | Description |
 |:-|:-|
-| <ins>_00_eda.ipynb_</ins> | Basic exploration of the dataset |
-| <ins>_01_ml.ipynb_</ins> | Model selection |
+| [_00_eda.ipynb_](./notebooks/00_eda.ipynb)  | Basic exploration of the dataset |
+| [_01_ml.ipynb_](./notebooks/01_ml.ipynb) | Model selection |
 
 ## Author
 
